@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4b342b089da23347a8e032d8da235d7, type: 3}
+  m_Name: Question 2
+  m_EditorClassIdentifier: 
+  question: "\u015Eahin Kalkan\u0131n\u0131 +7'den +8'e y\xFCkseltirken hangi itemleri
+    ister?"
+  answers:
+  - "Kurba\u011Fa Dili - \u0130stridye"
+  - "Akrep K\u0131skac\u0131 - \u0130stridye"
+  - "Bilinmeyen T\u0131ls\u0131m - K\u0131l\xE7\u0131k"
+  - "lanet kitab\u0131 - \u0130stridye"
+  correctAnswerIndex: 1
